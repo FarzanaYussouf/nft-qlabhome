@@ -1,0 +1,9 @@
+.second-child button{
+    /* background-color: blue;color: azure; */
+    border: none;border-radius: 30px;padding: 5px 10px;
+    
+}
+.second-child img{
+    height: 80px!important;
+    width: 80px!important;
+}

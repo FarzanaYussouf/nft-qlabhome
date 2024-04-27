@@ -1,0 +1,13 @@
+.first-child img{
+    height: 70px;
+    width: 70px;
+}
+.last-child img{
+    height: 300px;
+    width: 300px;
+}
+.last-child2 button{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 25px;
+}

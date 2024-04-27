@@ -1,0 +1,21 @@
+.second-child button{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 30px;
+}
+.second-child button1{
+    padding: 5px 65px;
+    border: none;border-radius: 30px;
+}
+.second-child button2{
+    padding: 5px 65px;
+    border: none;border-radius: 30px;
+}
+.second-child button3{
+    padding: 5px 50px;
+    border: none;border-radius: 30px;
+}
+.third-child img{
+    height: 200px;
+    width: 200px;
+}

@@ -1,0 +1,15 @@
+.left-child{
+    background:linear-gradient(to right,#033e5d,#6c886f)
+}
+.home-btn{
+    border-radius: 30px;border: none;
+    padding: 5px 20px;
+}
+.right-child img{
+    height: 100px;
+    width: 100px;
+}
+.right-child name{
+    font-size: smaller;
+    font-weight: lighter;
+}
