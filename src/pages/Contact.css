@@ -1,0 +1,16 @@
+.firstchild-con img{
+    height: 50px;
+    width: 50px;
+}
+.contact-child{
+    
+    border-radius: 30px;
+    padding: 10px 20px;
+   
+
+}
+.btn-con{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 20px;
+}

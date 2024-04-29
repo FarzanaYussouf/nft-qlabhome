@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import "./Navbar.css"
 
 const Navbar = () => {
@@ -13,7 +14,7 @@ const Navbar = () => {
                     <div class="collapse navbar-collapse " id="navbarSupportedContent">
                         <ul class="ms-auto navbar-nav me-auto mb-2 mb-lg-0 border border-3 ">
                             <li class="nav-item  ">
-                                <a class="nav-link active ms-3 text-white " aria-current="page" href="/home.html">Home</a>
+                                <Link class="nav-link active ms-3 text-white " aria-current="page" to ="/">Home</Link>
                             </li>
 
                             <li class="nav-item">
@@ -26,7 +27,7 @@ const Navbar = () => {
                                 <a class="nav-link active ms-3 text-white" aria-current="page" href="#">Requirements</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link ms-3  me-3 text-white" aria-current="page" href="#">Contact</a>
+                                <Link class="nav-link ms-3  me-3 text-white" aria-current="page" to="/Contact">Contact</Link>
                             </li>
 
 
