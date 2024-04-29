@@ -2,7 +2,18 @@
 
 .navbar-nav{
     border-radius: 30px;
+    border: 1px solid white;
+
 }
 .btn{
     border-radius: 30px;
+}
+.navbar-toggler-icon{
+    background-color: white;
+    border-radius: 10px;
+    height: 10px;
+    width: 10px;
+}
+.navbar-toggler-icon::after{
+    background-color: black;
 }

@@ -1,4 +1,4 @@
-import "./Competitive.css"
+// import "./Competitive.css"
 
 const Competitive = () => {
     return (

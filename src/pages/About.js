@@ -1,4 +1,4 @@
-import aboutcatageroies from "../about data"
+// import aboutcatageroies from "../about data"
 import "./About.css"
 
 const About = () => {

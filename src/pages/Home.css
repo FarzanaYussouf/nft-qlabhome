@@ -13,3 +13,56 @@
     font-size: smaller;
     font-weight: lighter;
 }
+.second-childa button{
+
+    border: none;border-radius: 30px;padding: 5px 10px;
+    
+}
+.second-childa img{
+    height: 80px!important;
+    width: 80px!important;
+}
+.second-child2 button{
+  
+    border: none;
+    border-radius: 20px;
+    padding: 5px 30px;
+}
+.second-child2 img{
+    height: 130px;
+    width: 130px;
+}
+.second-child button{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 30px;
+}
+.second-child button1{
+    padding: 5px 65px;
+    border: none;border-radius: 30px;
+}
+.second-child button2{
+    padding: 5px 65px;
+    border: none;border-radius: 30px;
+}
+.second-child button3{
+    padding: 5px 50px;
+    border: none;border-radius: 30px;
+}
+.third-child img{
+    height: 200px;
+    width: 200px;
+}
+.first-child img{
+    height: 70px;
+    width: 70px;
+}
+.last-child img{
+    height: 300px;
+    width: 300px;
+}
+.last-child2 button{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 25px;
+}

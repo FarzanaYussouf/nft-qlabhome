@@ -2,10 +2,10 @@
 import './App.css';
  import Navbar from './components/Navbar'
 import Home from "./pages/Home"
-import About from"./pages/About"
-import Projects from"./pages/Projects"
-import Requirements from './pages/Requirements';
-import Competitive from"./pages/Competitive"
+// import About from"./pages/About"
+// import Projects from"./pages/Projects"
+// import Requirements from './pages/Requirements';
+// import Competitive from"./pages/Competitive"
 import Footer from"./components/Footer"
 function App() {
   return (
@@ -14,10 +14,10 @@ function App() {
     
     <Navbar/>
 <Home/>
-<About/>
+{ /* <About/>
 <Projects/>
 <Requirements/>
-<Competitive/>
+<Competitive/> */ }
    <Footer/> 
     </>
   );
