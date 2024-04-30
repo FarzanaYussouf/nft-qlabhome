@@ -1,3 +1,15 @@
+.block{
+    background:linear-gradient(to top,#e64e2c,#886c82)
+}
+.pro-child img{
+height: 100px;
+width: 160px;
+}
+.pro-child button{
+    border: none;
+    border-radius: 50px;
+    padding: 5px 20px;
+}
 .second-child2 button{
   
     border: none;
@@ -7,4 +19,13 @@
 .second-child2 img{
     height: 130px;
     width: 130px;
+}
+.second-childa img{
+    height: 80px!important;
+    width: 80px!important;
+}
+.second-childa button{
+
+    border: none;border-radius: 30px;padding: 5px 10px;
+    
 }

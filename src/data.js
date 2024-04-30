@@ -75,7 +75,7 @@ export const aboutcategories=[
 export const projectscategories =[
     {
         img : "/images/project1.jpeg",
-        name:"Ecommerce web app",
+        name:"Ecommerce webapp",
         btn :"visit"
 
 

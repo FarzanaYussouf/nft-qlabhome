@@ -7,7 +7,7 @@ const Requirements = () => {
             <div className="container mt-5 mb-5">
                 <div className="row text-center">
                     < div className="col-12">
-                        <h2>Requirements</h2>
+                        <h2 className="fw-bold fs-1">Requirements</h2>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et enim, perferendis, aliquam esse at beatae, impedit mollitia consequuntur harum modi doloribus pariatur. Delectus eveniet aperiam obcaecati sequi! Distinctio libero adipisci dicta natus, maiores consequatur odit nobis impedit perferendis numquam esse at veritatis repellendus tempora laboriosam aliquam facilis voluptas accusantium rem. </p>
                         <div className="row text-start">
                             <div className="col-12">
@@ -38,7 +38,17 @@ const Requirements = () => {
                                 Additional pages:$80/page(one time cost)
                                 </p>
                                 <th className="fs-3" scope="row">2. Payment Terms:</th>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus accusamus nam dolorum ad labore laborum! Nisi consequatur nobis maiores ut!</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis impedit consequatur ab minus, modi cupiditate doloribus quis, placeat fugiat rerum, atque repellendus blanditiis laboriosam maxime dolorem aliquam iure! Earum amet perferendis nemo aut nobis magni pariatur aperiam eum, aliquam dolorem?</p>
+                                <th className="fs-3" scope="row">3. 
+                                Timeline:</th>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint harum minus molestias accusamus soluta beatae ipsa, sed quisquam eum, odio rem dolorem magni officiis sit expedita voluptatem quos repellendus consectetur. Quibusdam itaque blanditiis corporis similique minima tempore aperiam sint? Quas eveniet aliquid ducimus nam illum.</p>
+                                
+                                <th className="fs-3" scope="row">4. Guranatees:</th>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem consectetur repellendus illum! Dolore non a inventore quam similique praesentium, dignissimos assumenda, velit fugiat quidem autem cumque officia adipisci quis perspiciatis voluptas facere mollitia, possimus hic! Modi dolores unde, reprehenderit neque architecto non amet ad saepe laborum voluptatibus illo libero iusto!</p>
+                                <th className="fs-3" scope="row">5.  Maintenance and Support:</th>
+                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis illo praesentium hic porro saepe repellat harum? Temporibus deserunt eligendi recusandae magnam, vitae aperiam, libero, labore voluptas nemo ullam aut nesciunt?</p>
+                                <th className="fs-3" scope="row">6. Cancellation and Termination:</th>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, est dolorem illo veritatis, at magni consequatur vitae, animi iste distinctio commodi! Voluptas nobis, similique quae delectus a, tempora ad ut, nemo temporibus nostrum est iure eveniet repellendus. Odio, ut velit eligendi reprehenderit quas facilis neque, ea voluptate aliquid sit maxime quis nisi molestiae, ipsum quaerat!</p>
 
                             </div>
 
