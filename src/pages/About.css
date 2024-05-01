@@ -1,9 +1,26 @@
-.second-childa button{
-
-    border: none;border-radius: 30px;padding: 5px 10px;
-    
+.about-child img{
+    height: 250px;
+    width: 250px;
 }
-.second-childa img{
-    height: 80px!important;
-    width: 80px!important;
+.about-child{
+    background:linear-gradient(to right,#5d0347,#dda169)
+   
+}
+.video-child video{
+    height: 400px;
+    width: 600px;
+}
+.final-child{
+    background:linear-gradient(to right,#5d0347,#dda169)
+
+   
+}
+.video-child2 button{
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.final-child img{
+    height: 350px;
+    width: 350px;
 }

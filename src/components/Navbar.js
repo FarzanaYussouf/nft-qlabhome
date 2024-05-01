@@ -33,7 +33,9 @@ const Navbar = () => {
 
                         </ul>
 
-                        <button class="btn btn bg-primary text-white" type="submit">Contact Us</button>
+                        <button class="btn btn bg-primary text-white" type="submit">
+                            <Link className="text-white" aria-current="page" to="/Contact">Contact Us </Link>
+                            </button>
 
                     </div>
                 </div>
